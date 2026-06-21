@@ -10,9 +10,9 @@
 - https://github.com/marcel-dempers/docker-development-youtube-series
 
 
-#### https://opentelemetry.io/docs/
-https://opentelemetry.io/docs/collector/configuration/
-https://opentelemetry.io/docs/concepts/signals/
+### https://opentelemetry.io/docs/
+- https://opentelemetry.io/docs/collector/configuration/
+- https://opentelemetry.io/docs/concepts/signals/
 
 ### OTLP Receiver
 - https://github.com/open-telemetry/opentelemetry-collector/blob/main/receiver/README.md
