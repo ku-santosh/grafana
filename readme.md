@@ -8,3 +8,14 @@
 - https://gist.github.com/piyushgarg-dev/7c4016b12301552b628bbac21a11e6ab
 - https://gist.github.com/piyushgarg-dev/7c4016b12301552b628bbac21a11e6ab
 - https://github.com/marcel-dempers/docker-development-youtube-series
+
+
+#### https://opentelemetry.io/docs/
+https://opentelemetry.io/docs/collector/configuration/
+https://opentelemetry.io/docs/concepts/signals/
+
+### OTLP Receiver
+- https://github.com/open-telemetry/opentelemetry-collector/blob/main/receiver/README.md
+- https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/receiver
+- https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/receiver/filelogreceiver
+- https://github.com/open-telemetry/opentelemetry-collector/blob/main/receiver/otlpreceiver/README.md
